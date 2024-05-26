@@ -1,1 +1,1 @@
-# AfricaCyberFest24_CTF-writeup-idan.md
+# AfricaCyberFest24_CTF
